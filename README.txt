@@ -21,3 +21,5 @@
 
  
 同学们等待 nutz-payment-1.a.1.jar 发布吧~ 我做的慢 大概年底出来 ＼(*´▽`)／
+
+BLOG: http://howe.im/?p=805
